@@ -1,4 +1,4 @@
-# LearningJourney
+# Learning Data With Me
 
 `LearningJourney` is a notebook-based repository for practicing Python and data
 learning exercises. It currently contains day-2 class notes and task work in
